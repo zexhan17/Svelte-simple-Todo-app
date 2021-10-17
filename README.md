@@ -11,7 +11,6 @@ To create a new project based on this template using [degit](https://github.com/
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
